@@ -1,0 +1,14 @@
+{
+  "Commands": [
+    {
+      "commandName": "測試文本",
+      "keyWord": "測試",
+      "segmentList":["我正在進行測試","我想要測試一下下載"],
+      "result": "AAAA",
+      "kind": "AAAA"
+    },
+  ],
+  "Confidence":"0.9",
+  "UseSecondRecongition":true,
+  "SecondConfidence":"0.9"
+}
